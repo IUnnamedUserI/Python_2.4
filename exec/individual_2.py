@@ -1,3 +1,6 @@
+#!/usr/bin/python3
+# -*- coding: utf-8 -*-
+
 if __name__ == "__main__":
     A = list(map(float, input("Введите несколько"
                               "вещественных чисел: ").split()))
